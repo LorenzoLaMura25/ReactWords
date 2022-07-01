@@ -1,0 +1,51 @@
+.App {
+  text-align: center;
+}
+
+
+
+
+
+.first{
+
+  
+  border:2px solid #dee1e9;
+  font-size: 28px;
+  font-weight: 700;
+  height: 64px;
+  margin:3px;
+  text-transform: uppercase;
+  width: 64px;
+  border-radius: 5px;
+  color:#393e4c;
+  background: #fbfcff;
+  display: inline-block;
+}
+
+
+.mybtn{
+  height:64px;
+  width:64px;
+  background-color: #dce1ed;
+  color:#5a6376;
+  border:2px solid transparent;
+  border-radius: 4px;
+  cursor:pointer;
+  user-select: none;
+  font-weight: 700;
+  margin:3px;
+  min-height: 46px;
+  padding:3px;
+  text-decoration: inherit;
+  text-transform:capitalize;
+  transition: .2s;
+}
+
+.wordsbtn{
+  margin-top:3vh;
+}
+
+.row_one{
+  display:inline-flex;
+  
+}
